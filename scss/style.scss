@@ -1,0 +1,14 @@
+@import '../Fonts/Fonts';
+@import './globals';
+
+
+// bootstrap
+@import '../Bootstrap/scss/bootstrap.scss';
+
+// pages
+@import '../Homepage/Homepage';
+
+* {
+  font-family: "Lato", sans-serif;
+  // border: 1px solid black;
+}
